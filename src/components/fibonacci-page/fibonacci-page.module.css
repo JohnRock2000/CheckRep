@@ -1,0 +1,19 @@
+.wrapper {
+    width: 522px;
+    margin: 0 auto;
+    display: flex;
+    gap: 12px;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .result {
+    margin: 0 auto;
+    padding-top: 120px;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+  }
+  
